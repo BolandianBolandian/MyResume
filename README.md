@@ -4,7 +4,7 @@ Welcome to my GitHub page where you can find a PDF version of my resume. Feel fr
 
 click the link below:
 
-[Resume (PDF)](https://github.com/BolandianBolandian/MyResume/blob/main/MohammadSadeq-Bolandian-Resume.pdf)
+[Resume (PDF)](https://github.com/BolandianBolandian/MyResume/blob/main/Resume%20PDF/MohammadSadeq-Bolandian-Resume.pdf)
 
 ## Contact Information
 
