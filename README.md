@@ -13,7 +13,7 @@ Feel free to explore my latest projects and contributions on my [GitHub profile]
 ## Contact Information
 
 - **Email**: [Bolandian@yahoo.com](mailto:youremail@example.com)
-- **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/mohammadsadeq-bolandian)
+- **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/mohammadsadeq-bolandian)<br>
 I am always open to networking and discussing potential opportunities. 
 Don't hesitate to reach out via email or connect with me on LinkedIn.
 
