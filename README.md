@@ -5,9 +5,9 @@ Feel free to download it and reach out if you have any questions or opportunitie
 
 ## Download My Resume
 
-You can download my resume directly by clicking the link below:
+click the link below:
 
-[Download Resume (PDF)](https://github.com/BolandianBolandian/MyResume/blob/main/MohammadSadeq-Bolandian-Resume.pdf)
+[Resume (PDF)](https://github.com/BolandianBolandian/MyResume/blob/main/MohammadSadeq-Bolandian-Resume.pdf)
 
 ## Contact Information
 
