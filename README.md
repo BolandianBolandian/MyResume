@@ -8,7 +8,7 @@ click the link below:
 
 ## Projects and Contributions
 
-Feel free to explore my latest projects and contributions on my [GitHub profile](https://github.com/BolandianBolandian).
+Feel free to explore my latest projects and contributions on my [GitHub profile](https://github.com/BolandianBolandian#my-latest-projects).
 
 ## Contact Information
 I am always open to networking and discussing potential opportunities. 
