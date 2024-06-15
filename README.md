@@ -2,7 +2,7 @@ Welcome to my GitHub page where you can find a PDF version of my resume. Feel fr
 
 ## Download My Resume
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=F77180&background=C3FFBD00&random=false&width=435&lines=click+the+link+below+to+download%3A)](https://git.io/typing-svg)<br>
-👉 [Resume (PDF)](https://github.com/BolandianBolandian/MyResume/blob/main/Resume%20PDF/MohammadSadeq-Bolandian-Resume.pdf)
+👉 [Resume (PDF)](https://github.com/BolandianBolandian/MyResume/raw/main/Resume%20PDF/MohammadSadeq-Bolandian-Resume.pdf)
 
 ## Projects and Contributions
 
