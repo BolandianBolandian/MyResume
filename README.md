@@ -1,7 +1,4 @@
-# Sadeq Bolandian's Resume
-
-Welcome to my GitHub page where you can find a PDF version of my resume. 
-Feel free to download it and reach out if you have any questions or opportunities.
+Welcome to my GitHub page where you can find a PDF version of my resume. Feel free to download it and reach out if you have any questions or opportunities.
 
 ## Download My Resume
 
